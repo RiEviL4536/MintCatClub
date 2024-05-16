@@ -1,92 +1,120 @@
 {
 	"Fokus 45": {
-		"AccessLevel": "low"
+		"AccessLevel": "low","Role": "Dancer" 
 	},
 	"Artemia": {
-		"AccessLevel": "low"
+		"AccessLevel": "low", "Role": "Dancer"
 	},
 	"Onii-сhan": {
-		"AccessLevel": "low"
+		"AccessLevel": "low",
+		"Role": "Dancer"
 	},
 	"Yun₳NGELઉઉઉasai": {
-		"AccessLevel": "low"
+		"AccessLevel": "low",
+		"Role": "Dancer"
 	},
 	"mangomakc": {
-		"AccessLevel": "low"
+		"AccessLevel": "low",
+		"Role": "Dancer"
 	},
 	"yuki22beg": {
-		"AccessLevel": "low"
+		"AccessLevel": "low",
+		"Role": "Dancer"
 	},
 	"_sen_": {
-		"AccessLevel": "low"
+		"AccessLevel": "low",
+		"Role": "Dancer"
 	},
 	"SanSanya": {
-		"AccessLevel": "low"
+		"AccessLevel": "low",
+		"Role": "Dancer"
 	},
 	"Renko": {
-		"AccessLevel": "low"
+		"AccessLevel": "low",
+		"Role": "Dancer"
 	},
 	"Neveraę": {
-		"AccessLevel": "low"
+		"AccessLevel": "low",
+		"Role": "Dancer"
 	},
 	"EchoShy": {
-		"AccessLevel": "low"
+		"AccessLevel": "low",
+		"Role": "Dancer"
 	},
 	"SSnor": {
-		"AccessLevel": "low"
+		"AccessLevel": "low",
+		"Role": "Dancer"
 	},
 	"L'Angélique": {
-		"AccessLevel": "low"
+		"AccessLevel": "low",
+		"Role": "Dancer"
 	},
 	"Hegins_": {
-		"AccessLevel": "medium"
+		"AccessLevel": "medium",
+		"Role": "Dance Leader"
 	},
 	"akulao": {
-		"AccessLevel": "medium"
+		"AccessLevel": "medium",
+		"Role": "Event MC"
 	},
 	"~Granitea~": {
-		"AccessLevel": "medium"
+		"AccessLevel": "medium",
+		"Role": "Dancer"
 	},
 	"Commissar Θ 27": {
-		"AccessLevel": "medium"
+		"AccessLevel": "medium",
+		"Role": "Event MC"
 	},
 	"AТЕЦ": {
-		"AccessLevel": "medium"
+		"AccessLevel": "medium",
+		"Role": "Security"
 	},
 	"Ph0bos¹": {
-		"AccessLevel": "medium"
+		"AccessLevel": "medium",
+		"Role": "Security"
 	},
 	"KotRik": {
-		"AccessLevel": "medium"
+		"AccessLevel": "medium",
+		"Role": "Security"
 	},
 	"vasseeanap": {
-		"AccessLevel": "high"
+		"AccessLevel": "high",
+		"Role": "Dep Director"
 	},
 	"Enot Kosik": {
-		"AccessLevel": "high"
+		"AccessLevel": "high",
+		"Role": "Dep Director"
 	},
 	"༺Crazy☭Russki༻": {
-		"AccessLevel": "high"
+		"AccessLevel": "high",
+		"Role": "Dep Director"
 	},
 	"ИИ-Бâрҝ": {
-		"AccessLevel": "high"
+		"AccessLevel": "high",
+		"Role": "Tech Director"
 	},
 	"Aiumi_": {
-		"AccessLevel": "high"
+		"AccessLevel": "high",
+		"Role": "Dis Director"
 	},
 	"MintCatClub": {
-		"AccessLevel": "high"
+		"AccessLevel": "high",
+		"Role": "HOST"
 	},
 	"Leviаnt": {
-		"AccessLevel": "high"
+		"AccessLevel": "high",
+		"Role": "Tech Director"
 	},
 	"flowersоul": {
-		"AccessLevel": "high"
+		"AccessLevel": "high",
+		"Role": "Dep Director"
 	},
 	"Admiral`": {
-		"AccessLevel": "high"
+		"AccessLevel": "high",
+		"Role": "Event Director"
 	},
 	"L a v a": {
-		"AccessLevel": "high"
+		"AccessLevel": "high",
+		"Role": "Director"
 	}
 }
